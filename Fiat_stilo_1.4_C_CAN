@@ -4,3 +4,16 @@ CAN bus connection was made near the connector of the electric power steering co
 
 C-CAN: 500kbps 
 Message max. length: 8bit
+
+
+------------------
+
+Message ID: 0x 361
+Definition: Engine related data
+Length: 8 bytes
+
+Deceleration cut off
+Byte index: 0 
+Start Bit: 0
+Length: 8 Bits
+
